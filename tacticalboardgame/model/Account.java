@@ -1,7 +1,7 @@
 package tacticalboardgame.model;
 
 /**
- * Represents a user
+ * Represents a user blab la
  */
 public class Account {
 	
