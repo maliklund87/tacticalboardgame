@@ -16,6 +16,9 @@ import tacticalboardgame.netutil.GetMyCurrentGamesRequest;
 import tacticalboardgame.netutil.GetMyCurrentGamesResponse;
 import tacticalboardgame.netutil.SubmitTurnRequest;
 
+/**
+ * some change. Delete at some point
+ */
 public class Client {
 
 	private String serverIp;
